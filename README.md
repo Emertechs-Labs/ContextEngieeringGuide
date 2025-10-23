@@ -2,7 +2,7 @@
 
 [![Hedera](https://img.shields.io/badge/Hedera-00A3E0?style=flat-square&logo=hedera&logoColor=white)](https://hedera.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/Prize_Pool-$1M-gold?style=flat-square)](https://dorahacks.io/hackathon/hederahackafrica/detail)
+[![Hackathon](https://img.shields.io/badge/Prize_Pool-$1M-gold?style=flat-square)](https://dorahacks.io/hackathon/hederahackafrica?utm_source=other&utm_medium=partnership&utm_campaign=default&utm_code=68f7c4cc72be979bf88a407455d88478)
 
 ## Tech Stack
 
@@ -35,7 +35,7 @@ The **Hedera Africa Hackathon 2025** is a continent-wide innovation program co-o
 
 For more details:
 - [Hackathon Rules](https://hedera-hackathon.hashgraph.swiss/rules)
-- [DoraHacks Event Page](https://dorahacks.io/hackathon/hederahackafrica/detail)
+- [DoraHacks Event Page](https://dorahacks.io/hackathon/hederahackafrica?utm_source=other&utm_medium=partnership&utm_campaign=default&utm_code=68f7c4cc72be979bf88a407455d88478)
 
 ## 🎯 Hackathon Tracks
 
@@ -141,11 +141,12 @@ This guide breaks down the process from ideation to submission, using AI tools t
 ## 🚀 Getting Started
 
 ### For Complete Beginners
-1. **Read This Guide**: Start with the [Ideation](docs/ideation/) section
-2. **Set Up Accounts**: Create GitHub, ChatGPT, and Hedera testnet accounts
-3. **Join Community**: Connect on [Hedera Discord](https://discord.gg/hedera)
-4. **Complete Certification**: Take the free [Hedera Developer Certification](http://hashgraphdev.com/?code=EmertechLabs)
-5. **Start Ideating**: Use AI tools to brainstorm project ideas
+1. **Register for the Hackathon**: Each team member should register individually at [DoraHacks](https://dorahacks.io/hackathon/hederahackafrica?utm_source=other&utm_medium=partnership&utm_campaign=default&utm_code=68f7c4cc72be979bf88a407455d88478) (only the team lead submits the project)
+2. **Read This Guide**: Start with the [Ideation](docs/ideation/) section
+3. **Set Up Accounts**: Create GitHub, ChatGPT, and Hedera testnet accounts
+4. **Join Community**: Connect on [Hedera Discord](https://discord.gg/hedera)
+5. **Complete Certification**: Take the free [Hedera Developer Certification](http://hashgraphdev.com/?code=EmertechLabs)
+6. **Start Ideating**: Use AI tools to brainstorm project ideas
 
 ### Quick Links by Experience Level
 
@@ -220,6 +221,9 @@ Found an error or want to improve this guide? Contributions are welcome!
 
 ### Can I work alone or do I need a team?
 **Both!** You can participate as an individual or form teams of up to 7 members.
+
+### How do I register for the hackathon?
+**Each team member must register individually** on the [DoraHacks platform](https://dorahacks.io/hackathon/hederahackafrica?utm_source=other&utm_medium=partnership&utm_campaign=default&utm_code=68f7c4cc72be979bf88a407455d88478). However, only the team lead submits the final project on behalf of the team.
 
 ### What if I'm not from Africa?
 **Anyone can participate!** While the hackathon focuses on African impact, it's open to developers worldwide.
