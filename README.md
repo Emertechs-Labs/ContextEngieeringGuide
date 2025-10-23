@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Hackathon](https://img.shields.io/badge/Prize_Pool-$1M-gold?style=flat-square)](https://dorahacks.io/hackathon/hederahackafrica/detail)
 
+## Tech Stack
+Hedera, Node.js, JavaScript, React, Next.js, Solidity, GitHub, VS Code, Vercel, Render, IPFS, OpenAI, Anthropic
+
 This comprehensive guide is designed to help **anyone**—even those without prior software development knowledge—build innovative projects for the Hedera Africa Hackathon. By leveraging AI coding agents, Model Context Protocol (MCP) servers, and Hedera's powerful distributed ledger technology, you can transform your ideas into working decentralized applications (dApps) on the Hedera network.
 
 ## 🌍 What is the Hedera Africa Hackathon?
