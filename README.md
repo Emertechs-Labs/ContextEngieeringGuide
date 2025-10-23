@@ -144,7 +144,7 @@ This guide breaks down the process from ideation to submission, using AI tools t
 1. **Read This Guide**: Start with the [Ideation](docs/ideation/) section
 2. **Set Up Accounts**: Create GitHub, ChatGPT, and Hedera testnet accounts
 3. **Join Community**: Connect on [Hedera Discord](https://discord.gg/hedera)
-4. **Complete Certification**: Take the free [Hedera Developer Certification](https://portal.hedera.com/certification)
+4. **Complete Certification**: Take the free [Hedera Developer Certification](http://hashgraphdev.com/?code=EmertechLabs)
 5. **Start Ideating**: Use AI tools to brainstorm project ideas
 
 ### Quick Links by Experience Level
@@ -229,6 +229,9 @@ Found an error or want to improve this guide? Contributions are welcome!
 
 ### What languages are supported?
 **English** is required for submissions, but you can develop in any programming language with Hedera SDKs (JavaScript, Python, Go, Java, etc.).
+
+### Is certification required to win prizes?
+**Yes!** At least one member from your team must have completed the Hedera Developer Certification and earned a certificate to be eligible for hackathon prizes.
 
 ### How are winners selected?
 **Judging Criteria:**
