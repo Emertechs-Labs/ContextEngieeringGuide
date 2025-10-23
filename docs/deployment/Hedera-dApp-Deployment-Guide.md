@@ -298,7 +298,7 @@ npx create-next-app hedera-dapp --typescript
 - [Smart Contracts](https://docs.hedera.com/guides/sdks/javascript/smart-contracts)
 - [IPFS Integration](https://docs.hedera.com/guides/sdks/javascript/ipfs-integration)
 - [Developer Portal](https://portal.hedera.com/)
-- [Discord Community](https://discord.gg/hedera)
+- [Discord Community](https://discord.gg/DzAbsm6T)
 
 ## Next Steps
 

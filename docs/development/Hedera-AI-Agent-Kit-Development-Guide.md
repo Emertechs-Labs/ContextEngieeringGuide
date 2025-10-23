@@ -283,7 +283,7 @@ npx create-hedera-agent-kit-app my-hackathon-app
 
 ### 4. Community Resources
 
-- Join the [Hedera Discord](https://discord.gg/hedera) for real-time help
+- Join the [Hedera Discord](https://discord.gg/DzAbsm6T) for real-time help
 - Check the [Hedera Developer Documentation](https://docs.hedera.com/)
 - Use the [Hedera Developer Portal](https://portal.hedera.com/) for test HBAR
 
@@ -371,7 +371,7 @@ Extend functionality by creating custom plugins. See the [Plugins Documentation]
 - [Hedera Agent Kit GitHub](https://github.com/hashgraph/hedera-agent-kit-js)
 - [MCP Server Setup](https://github.com/hashgraph/hedera-agent-kit-js/blob/main/docs/DEVEXAMPLES.md#option-d-try-out-the-mcp-server)
 - [Hedera Developer Portal](https://portal.hedera.com/)
-- [Hedera Discord Community](https://discord.gg/hedera)
+- [Hedera Discord Community](https://discord.gg/DzAbsm6T)
 
 ## Next Steps
 

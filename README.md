@@ -146,7 +146,7 @@ This guide breaks down the process from ideation to submission, using AI tools t
 2. **Read This Guide**: Start with the [Ideation](docs/ideation/) section
 3. **Set Up Accounts**: Create GitHub, ChatGPT, and Hedera testnet accounts
 4. **Earn Extra Rewards**: Complete simple quests to earn up to $10 at [Hedera Hacks Quests](https://quest.hederahacks.com/auth?flow=register&ref=amplifyafric326921)
-5. **Join Community**: Connect on [Hedera Discord](https://discord.gg/hedera)
+5. **Join Community**: Connect on [Hedera Discord](https://discord.gg/DzAbsm6T)
 6. **Complete Certification**: Take the free [Hedera Developer Certification](http://hashgraphdev.com/?code=EmertechLabs)
 7. **Start Ideating**: Use AI tools to brainstorm project ideas
 
@@ -190,7 +190,7 @@ This guide breaks down the process from ideation to submission, using AI tools t
 ## 🤝 Community & Support
 
 ### Get Help
-- 💬 [Hedera Discord](https://discord.gg/hedera) - Official community chat
+- 💬 [Hedera Discord](https://discord.gg/DzAbsm6T) - Official community chat
 - 🐦 [Twitter/X](https://twitter.com/hedera) - Follow for updates
 - 📺 [YouTube Tutorials](https://www.youtube.com/c/hedera) - Video guides
 - 📧 Email support via hackathon organizers

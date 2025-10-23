@@ -98,7 +98,7 @@ For an introduction to MCP, see [https://modelcontextprotocol.io/docs/getting-st
 ## Tips for Non-Coders
 - **Conversational Approach:** Treat AI as your developer—describe features in plain English.
 - **Iterate:** Build incrementally; test small parts first.
-- **Resources:** Join [Hedera Discord](https://discord.gg/hedera) for support. Use [Hedera Developer Portal](https://portal.hedera.com/) for docs and playground.
+- **Resources:** Join [Hedera Discord](https://discord.gg/DzAbsm6T) for support. Use [Hedera Developer Portal](https://portal.hedera.com/) for docs and playground.
 - **Free Tools:** Use Groq or Ollama for AI without costs.
 - **Version Control:** Push code to GitHub for backup and collaboration.
 

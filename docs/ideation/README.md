@@ -139,7 +139,7 @@ Prompt: "I have this rough idea: [paste Stage 2]. Help me refine it into a Stage
 ## Collaboration & Feedback
 
 ### Finding Team Members
-- Join [Hedera Discord](https://discord.gg/hedera) #africa-hackathon channel
+- Join [Hedera Discord](https://discord.gg/DzAbsm6T) #africa-hackathon channel
 - Post in DoraHacks hackathon discussion forums
 - Attend virtual ideation workshops (check hackathon calendar)
 - Network at 20+ on-site hacking stations across Africa
@@ -153,7 +153,7 @@ Prompt: "I have this rough idea: [paste Stage 2]. Help me refine it into a Stage
 
 ## Tips for Non-Coders
 - **Leverage AI Fully:** Treat it as your development team—ideate, then use Hedera AI agents (like Hedera AI Agent Kit) for building.
-- **Collaborate:** Join hackathon communities for feedback ([Hedera Discord](https://discord.gg/hedera)).
+- **Collaborate:** Join hackathon communities for feedback ([Hedera Discord](https://discord.gg/DzAbsm6T)).
 - **Start Small:** Pick ideas that excite you and solve tangible problems.
 - **Document Everything:** Keep a journal of your ideation process—judges love to see your thought process.
 - **Get Feedback Early:** Share rough ideas with mentors and community—don't wait for perfection.
