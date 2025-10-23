@@ -137,6 +137,7 @@ This guide breaks down the process from ideation to submission, using AI tools t
 - [Hedera AI Agent Kit](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit)
 - [Hedera Agent Kit JS GitHub](https://github.com/hashgraph/hedera-agent-kit-js)
 - [ChatGPT](https://chatgpt.com/) for general AI assistance
+- [Hedera Hacks Quests](https://quest.hederahacks.com/auth?flow=register&ref=amplifyafric326921) - Earn up to $10 by completing simple quests
 
 ## 🚀 Getting Started
 
@@ -144,9 +145,10 @@ This guide breaks down the process from ideation to submission, using AI tools t
 1. **Register for the Hackathon**: Each team member should register individually at [DoraHacks](https://dorahacks.io/hackathon/hederahackafrica?utm_source=other&utm_medium=partnership&utm_campaign=default&utm_code=68f7c4cc72be979bf88a407455d88478) (only the team lead submits the project)
 2. **Read This Guide**: Start with the [Ideation](docs/ideation/) section
 3. **Set Up Accounts**: Create GitHub, ChatGPT, and Hedera testnet accounts
-4. **Join Community**: Connect on [Hedera Discord](https://discord.gg/hedera)
-5. **Complete Certification**: Take the free [Hedera Developer Certification](http://hashgraphdev.com/?code=EmertechLabs)
-6. **Start Ideating**: Use AI tools to brainstorm project ideas
+4. **Earn Extra Rewards**: Complete simple quests to earn up to $10 at [Hedera Hacks Quests](https://quest.hederahacks.com/auth?flow=register&ref=amplifyafric326921)
+5. **Join Community**: Connect on [Hedera Discord](https://discord.gg/hedera)
+6. **Complete Certification**: Take the free [Hedera Developer Certification](http://hashgraphdev.com/?code=EmertechLabs)
+7. **Start Ideating**: Use AI tools to brainstorm project ideas
 
 ### Quick Links by Experience Level
 
