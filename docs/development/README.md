@@ -1,10 +1,10 @@
 # Development Phase for Hedera Africa Hackathon
 
 ## Overview
-The development phase is where your researched ideas become functional prototypes. As a non-coder, leverage AI agents like the Hedera AI Agent Kit and MCP servers to build decentralized applications (dApps) on Hedera. These tools allow you to use natural language prompts to generate code, interact with Hedera services, and test on the testnet—AI handles the technical heavy lifting.
+The development phase is where your researched ideas become functional prototypes. As a non-coder, leverage AI agents like the Hedera AI Agent Kit and MCP servers to build decentralized applications (dApps) on Hedera. These tools allow you to use natural language prompts to generate code, interact with Hedera services, and test on the testnet - AI handles the technical heavy lifting.
 
 ### What You'll Build
-A simple prototype that shows your idea working on Hedera, like creating tokens, sending messages, or minting NFTs. No coding needed—just describe it to AI!
+A simple prototype that shows your idea working on Hedera, like creating tokens, sending messages, or minting NFTs. No coding needed - just describe it to AI!
 
 ## Key Tools for Development
 Focus on Hedera AI Agent Kit for AI-powered dApp building and MCP servers for seamless AI integration.
@@ -96,7 +96,7 @@ For an introduction to MCP, see [https://modelcontextprotocol.io/docs/getting-st
 - **UI/Frontend:** For dApps, use Next.js templates; AI can generate React components.
 
 ## Tips for Non-Coders
-- **Conversational Approach:** Treat AI as your developer—describe features in plain English.
+- **Conversational Approach:** Treat AI as your developer - describe features in plain English.
 - **Iterate:** Build incrementally; test small parts first.
 - **Resources:** Join [Hedera Discord](https://discord.gg/DzAbsm6T) for support. Use [Hedera Developer Portal](https://portal.hedera.com/) for docs and playground.
 - **Free Tools:** Use Groq or Ollama for AI without costs.

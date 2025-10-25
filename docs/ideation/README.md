@@ -8,7 +8,7 @@ A decentralized application (dApp) is an app that runs on a blockchain like Hede
 
 ## Why Ideation Matters
 - **Spark Creativity:** Generate concepts that align with Hedera's ecosystem, focusing on decentralized applications (dApps) for finance, operations, gaming, AI, and more.
-- **Non-Coder Friendly:** AI handles the heavy lifting—prompt it with your interests, and let it suggest project outlines, features, and feasibility.
+- **Non-Coder Friendly:** AI handles the heavy lifting - prompt it with your interests, and let it suggest project outlines, features, and feasibility.
 - **Hackathon Alignment:** Ensure your ideas fit the competition's tracks, eligibility, and timelines to maximize your chances of success.
 
 ## Using AI Tools for Ideation
@@ -59,7 +59,7 @@ Build dApps on Hedera to address real challenges. AI can help tailor ideas to th
   - Beginner Link: [Hedera AI Agent Kit Intro](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit) for AI tools.
 
 ### Eligibility and Requirements
-- Open to all (individuals to teams); no coding experience needed—focus on concepts.
+- Open to all (individuals to teams); no coding experience needed - focus on concepts.
 - Complete free Hedera certification for basics ([Hedera Developer Certification](https://portal.hedera.com/certification)).
 - Projects must be new post-August 1, 2025; include a working prototype (AI agents can help build this later).
 - Submission needs: Code/demo, description, video, pitch deck.
@@ -152,11 +152,11 @@ Prompt: "I have this rough idea: [paste Stage 2]. Help me refine it into a Stage
 "High remittance fees affect 200M African diaspora worldwide. We're building RemitChain, a tokenized payment platform on Hedera that cuts fees by 80%. Unlike Western Union, we use HTS for instant, low-cost transfers. We're targeting the Onchain Finance & RWA track."
 
 ## Tips for Non-Coders
-- **Leverage AI Fully:** Treat it as your development team—ideate, then use Hedera AI agents (like Hedera AI Agent Kit) for building.
+- **Leverage AI Fully:** Treat it as your development team - ideate, then use Hedera AI agents (like Hedera AI Agent Kit) for building.
 - **Collaborate:** Join hackathon communities for feedback ([Hedera Discord](https://discord.gg/DzAbsm6T)).
 - **Start Small:** Pick ideas that excite you and solve tangible problems.
-- **Document Everything:** Keep a journal of your ideation process—judges love to see your thought process.
-- **Get Feedback Early:** Share rough ideas with mentors and community—don't wait for perfection.
+- **Document Everything:** Keep a journal of your ideation process - judges love to see your thought process.
+- **Get Feedback Early:** Share rough ideas with mentors and community - don't wait for perfection.
 - **Resources:** Refer to [Hedera Docs for Beginners](https://docs.hedera.com/guides/getting-started) for inspiration; explore [AI Studio on Hedera](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera).
 
 ## Ideation Worksheet

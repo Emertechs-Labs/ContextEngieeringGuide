@@ -1,10 +1,10 @@
 # Research Phase for Hedera Africa Hackathon
 
 ## Overview
-In the research phase, you'll validate and expand on your ideation ideas by gathering technical knowledge, resources, and tools. As a non-coder, focus on understanding Hedera's ecosystem, fetching relevant documentation and code examples to your local PC, and using AI tools like GitHub Copilot in VS Code to explore and learn. This phase builds a foundation for development without requiring deep coding skills—AI agents will handle implementation later.
+In the research phase, you'll validate and expand on your ideation ideas by gathering technical knowledge, resources, and tools. As a non-coder, focus on understanding Hedera's ecosystem, fetching relevant documentation and code examples to your local PC, and using AI tools like GitHub Copilot in VS Code to explore and learn. This phase builds a foundation for development without requiring deep coding skills - AI agents will handle implementation later.
 
 ## Overview
-In the research phase, you'll validate and expand on your ideation ideas by gathering technical knowledge, resources, and tools. As a non-coder, focus on understanding Hedera's ecosystem, fetching relevant documentation and code examples to your local PC, and using AI tools like GitHub Copilot in VS Code to explore and learn. This phase builds a foundation for development without requiring deep coding skills—AI agents will handle implementation later.
+In the research phase, you'll validate and expand on your ideation ideas by gathering technical knowledge, resources, and tools. As a non-coder, focus on understanding Hedera's ecosystem, fetching relevant documentation and code examples to your local PC, and using AI tools like GitHub Copilot in VS Code to explore and learn. This phase builds a foundation for development without requiring deep coding skills - AI agents will handle implementation later.
 
 ### Why Research?
 Research helps you understand if your idea is possible on Hedera. You'll learn about tokens, consensus, and AI tools, so you can explain your project clearly to AI builders later.
@@ -76,7 +76,7 @@ Focus on SDKs, AI Agent Kit, and MCP servers for hackathon relevance.
 - **Setup for Research:** In VS Code, open the cloned folder. Use Copilot to explore code (e.g., ask "Explain this token creation function").
 
 #### Hedera AI Agent Kit
-- **Overview:** Toolkit for AI agents to use Hedera via natural language. Perfect for non-coders—agents handle transactions.
+- **Overview:** Toolkit for AI agents to use Hedera via natural language. Perfect for non-coders - agents handle transactions.
 - **Fetch:**
   - Docs: Download from [https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit).
   - Repo: Clone [https://github.com/hashgraph/hedera-agent-kit-js](https://github.com/hashgraph/hedera-agent-kit-js).
@@ -270,7 +270,7 @@ E:\HederaResearch\
 ## Advanced AI Research Techniques
 
 ### Multi-Model Approach
-Don't rely on one AI tool—compare responses:
+Don't rely on one AI tool - compare responses:
 
 1. **Ask ChatGPT**: "Explain Hedera Consensus Service"
 2. **Ask Claude**: Same question
