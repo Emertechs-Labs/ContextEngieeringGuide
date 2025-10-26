@@ -57,11 +57,11 @@ Quick steps:
 
 Notes on docs structure and per-folder files
 
-- The current repo structure already uses `README.md` inside each `docs/<phase>/` folder as a short index — keep this convention. Use those `README.md` files for short pointers (8–12 lines) and to surface phase-specific assets or examples.
+- The current repo structure already uses `README.md` inside each `docs/<phase>/` folder as a short index - keep this convention. Use those `README.md` files for short pointers (8–12 lines) and to surface phase-specific assets or examples.
 - For phase-specific configuration, examples or templates it's fine to add small helper files in the root of the phase folder (for example `docs/deployment/EXAMPLES.md`, `docs/research/TEMPLATES.md`, or `docs/ideation/WORKSHEET.md`). These should be descriptive and linked from the phase `README.md`.
 - Recommendation: keep long-form guides as standalone markdown files and keep each phase folder's root limited to index/readme, a small `assets/` folder if needed, and 1–3 supportive files (examples, templates, checklists). This keeps navigation predictable and reviewer-friendly.
 
 Questions
 - Open an issue or reach out on the repo for guidance.
 
-Thanks — maintainers
+Thanks - maintainers

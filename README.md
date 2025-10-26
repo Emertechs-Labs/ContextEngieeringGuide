@@ -6,17 +6,17 @@ This repository collects the guides and templates used to build Hedera dApps for
 
 ## Table of contents
 
-- Docs index — quick links to each phase (Ideation → Research → Development → Deployment → Submission)
-- Quick start — short checklist to get moving
-- Contributing — project contribution conventions (see `CONTRIBUTING.md`)
+- Docs index - quick links to each phase (Ideation → Research → Development → Deployment → Submission)
+- Quick start - short checklist to get moving
+- Contributing - project contribution conventions (see `CONTRIBUTING.md`)
 
 ## Docs index
 
-- Deployment — [docs/deployment/Hedera-dApp-Deployment-Guide.md](docs/deployment/Hedera-dApp-Deployment-Guide.md)
-- Development — [docs/development/README.md](docs/development/README.md)
-- Ideation — [docs/ideation/README.md](docs/ideation/README.md)
-- Research — [docs/research/README.md](docs/research/README.md)
-- Submission — [docs/submission/README.md](docs/submission/README.md)
+- Deployment - [docs/deployment/Hedera-dApp-Deployment-Guide.md](docs/deployment/Hedera-dApp-Deployment-Guide.md)
+- Development - [docs/development/README.md](docs/development/README.md)
+- Ideation - [docs/ideation/README.md](docs/ideation/README.md)
+- Research - [docs/research/README.md](docs/research/README.md)
+- Submission - [docs/submission/README.md](docs/submission/README.md)
 
 ## Quick start
 
