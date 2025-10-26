@@ -372,6 +372,10 @@ Extend functionality by creating custom plugins. See the [Plugins Documentation]
 - [MCP Server Setup](https://github.com/hashgraph/hedera-agent-kit-js/blob/main/docs/DEVEXAMPLES.md#option-d-try-out-the-mcp-server)
 - [Hedera Developer Portal](https://portal.hedera.com/)
 - [Hedera Discord Community](https://discord.gg/DzAbsm6T)
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - AI-powered CLI for code generation
+- [Aider](https://aider.chat/) - AI pair programming in terminal
+- [iFlow CLI](https://github.com/iflow-ai/iflow-cli) - Workflow automation CLI
+- [Hedera CLI](https://github.com/hiero-ledger/hiero-cli) - Official Hedera command-line tool
 
 ## Next Steps
 

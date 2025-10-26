@@ -19,6 +19,10 @@
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Aider](https://img.shields.io/badge/Aider-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![iFlow CLI](https://img.shields.io/badge/iFlow_CLI-00D4FF?style=for-the-badge&logo=npm&logoColor=white)
+![Hedera CLI](https://img.shields.io/badge/Hedera_CLI-00A3E0?style=for-the-badge&logo=hedera&logoColor=white)
 
 This comprehensive guide is designed to help **anyone** - even those without prior software development knowledge - build innovative projects for the Hedera Africa Hackathon. By leveraging AI coding agents, Model Context Protocol (MCP) servers, and Hedera's powerful distributed ledger technology, you can transform your ideas into working decentralized applications (dApps) on the Hedera network.
 

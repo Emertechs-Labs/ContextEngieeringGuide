@@ -88,6 +88,95 @@ For an introduction to MCP, see [https://modelcontextprotocol.io/docs/getting-st
 - AI uses Hedera tools via MCP to perform actions or generate code snippets.
 - Test in the AI app; iterate with prompts.
 
+### CLI AI Agentic Coding Tools
+
+To enhance your coding experience and speed up development, we strongly advocate for CLI-based AI agentic coding tools. These tools allow you to generate, edit, and debug code directly from the command line, integrating seamlessly with your development workflow.
+
+#### Recommended CLI Tools
+
+1. **Gemini CLI** ([GitHub](https://github.com/google-gemini/gemini-cli))
+   - Google's AI-powered CLI for code generation and assistance
+   - Free to use with Google account
+   - Supports multiple programming languages including Solidity for smart contracts
+   - Great for quick code snippets and explanations
+
+2. **Aider** ([Website](https://aider.chat/))
+   - AI pair programming tool in your terminal
+   - Supports GPT-4, Claude, and other models
+   - Can edit code files directly and run commands
+   - Ideal for refactoring and complex code changes
+
+3. **iFlow CLI** ([GitHub](https://github.com/iflow-ai/iflow-cli))
+   - AI-powered CLI for workflow automation and code generation
+   - Integrates with various AI models
+   - Focuses on productivity and automation
+   - Useful for repetitive coding tasks
+
+#### Installation and Basic Usage
+
+```bash
+# Gemini CLI (assuming npm package)
+npm install -g @google/gemini-cli
+
+# Aider
+pip install aider-chat
+
+# iFlow CLI
+npm install -g iflow-cli
+```
+
+Example usage:
+```bash
+# Generate code with Gemini CLI
+gemini-cli generate "Create a Hedera token creation function in JavaScript"
+
+# Use Aider for code editing
+aider --model gpt-4 --edit "Add error handling to my Hedera agent code"
+
+# Automate with iFlow CLI
+iflow generate-workflow "Hedera dApp deployment pipeline"
+```
+
+#### For Hedera Specifically: Hedera CLI with MCP Integration
+
+**Hedera CLI** ([GitHub](https://github.com/hiero-ledger/hiero-cli))
+- Official Hedera command-line tool for network operations
+- Use in conjunction with Hedera MCP server for enhanced AI integration
+- Supports account management, token operations, consensus services, and smart contract interactions
+
+Installation:
+```bash
+npm install -g @hiero/hiero-cli
+```
+
+Setup and usage:
+```bash
+# Initialize with testnet
+hiero-cli init --network testnet
+
+# Create an account
+hiero-cli accounts create
+
+# Create a token
+hiero-cli tokens create --name "MyToken" --symbol "MTK" --initial-supply 1000000
+
+# Check balance
+hiero-cli accounts balance
+```
+
+**Combining with MCP Servers:**
+Use Hedera CLI alongside other MCP servers like GitHub, Puppeteer, and Playwright for comprehensive development automation:
+
+```bash
+# Example workflow: AI-assisted token creation
+# 1. Use Hedera MCP server to generate token creation code
+# 2. Use Hedera CLI to execute on testnet
+# 3. Use GitHub MCP to commit changes
+# 4. Use Puppeteer MCP to test the dApp UI
+```
+
+This combination provides a powerful, AI-driven development environment specifically tailored for Hedera dApp development.
+
 ## Building and Testing Prototypes
 - **Workflow:** Start with templates from [Hedera Agent Kit GitHub](https://github.com/hashgraph/hedera-agent-kit-js). Use `npx create-hedera-agent-kit-app my-app` for a quick start.
 - **Code Generation:** Use Copilot/Claude: "Generate JavaScript code for a Hedera token transfer using the agent kit."
