@@ -1,42 +1,8 @@
-# Submission Phase Quick Guide
+# Submission
 
-## Overview
-Package and submit your Hedera dApp to the Africa Hackathon. Submit to DoraHacks by October 31, 2025. Include code, video demo, description, and pitch deck.
+Short index for submission resources. Use the full checklist and templates in the file below before you submit to DoraHacks.
 
-### What to Submit
-- Working prototype on Hedera testnet
-- GitHub repo with code
-- 2-3 min demo video
-- Project description and pitch deck
-- Test credentials for judges
+- Quick guide & checklist: [Submission-Phase-Quick-Guide.md](./Submission-Phase-Quick-Guide.md)
+- Templates and examples: [TEMPLATES.md](./TEMPLATES.md)
 
-## Hackathon Tracks
-Choose one primary track:
-- **Onchain Finance & RWA**: Tokenized assets, financial tools
-- **DLT for Operations**: Supply chains, healthcare solutions
-- **Immersive Experiences**: Gaming, NFTs, virtual worlds
-- **AI & DePIN**: AI-powered decentralized networks
-
-## Key Requirements
-- Project built post-August 1, 2025
-- English language
-- Free access for judges
-- Focus on African impact
-
-### Submission Steps
-1. **Prepare**: Finalize prototype, create video, write description
-2. **GitHub**: Upload code and docs
-3. **DoraHacks**: Submit via [dorahacks.io/hackathon/hederahackafrica](https://dorahacks.io/hackathon/hederahackafrica)
-4. **Deadline**: October 31, 2025, 22:59 UTC
-
-## Judging & Prizes
-- Criteria: Innovation, impact, feasibility, Hedera usage
-- $1M total: $160k/track, $300k cross-track, $60k exceptional
-- Winners: November 3, 2025
-
-## Tips for Non-Coders
-- Use AI to generate descriptions and video scripts
-- Get community feedback before submitting
-- Test everything thoroughly
-
-For the complete submission guide with detailed requirements, judging criteria, and step-by-step instructions, see the [main README](../../README.md).
+Submit on DoraHacks by the deadline and ensure judges have access to your demo and repo.
